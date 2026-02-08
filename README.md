@@ -58,9 +58,7 @@ Passionate about clean architecture, modern frontend frameworks, and cloud-ready
 
 ## 📘 Learning & Certifications
 
-[![Microsoft Learn Badge](./assets/microsoft-learn.png)](https://learn.microsoft.com/api/achievements/share/en-us/AdeshSinghRathore-6596/FQJZ5Y9X?sharingId=F24A7D9DEC7CA437)
-
-
+[![Microsoft Learn Badge](./assets/PromptEngineering.png)](https://learn.microsoft.com/en-in/users/adeshsinghrathore-3396/achievements/print/46xs6qak)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdeshRathore89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
