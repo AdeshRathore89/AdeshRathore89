@@ -56,6 +56,11 @@ Passionate about clean architecture, modern frontend frameworks, and cloud-ready
 - ☁️ Cloud-ready & scalable application architectures  
 - 🧩 Clean architecture & maintainable frontend systems  
 
+## 📘 Learning & Certifications
+
+[![Microsoft Learn Badge](./assets/microsoft-learn.png)](https://learn.microsoft.com/api/achievements/share/en-us/AdeshSinghRathore-6596/FQJZ5Y9X?sharingId=F24A7D9DEC7CA437)
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdeshRathore89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
