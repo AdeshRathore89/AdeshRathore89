@@ -54,31 +54,28 @@ Passionate about clean architecture, modern frontend frameworks, and cloud-ready
 - 🤖 GitHub Copilot & AI-assisted coding workflows  
 - 🧠 Prompt engineering for real-world development scenarios  
 - ☁️ Cloud-ready & scalable application architectures  
-- 🧩 Clean architecture & maintainable frontend systems  
-
+- 🧩 Clean architecture & maintainable frontend systems
 ## 📘 Learning & Certifications
 
 <table>
-  <tr>
-    <td align="center">
-      <a href="[YOUR_MICROSOFT_LEARN_URL](https://learn.microsoft.com/en-in/users/adeshsinghrathore-3396/achievements/print/fq578qcx)">
-        <img src="./assets/badges/GitHubCopilot.png" width="260"/>
-      </a><br/>
-      <b>GitHub Copilot Fundamentals</b>
-    </td>
+<tr>
+<td align="center">
+<a href="https://learn.microsoft.com/en-in/users/adeshsinghrathore-3396/achievements/print/fq578qcx" target="_blank">
+<img src="./assets/Badges/GitHubCopilot.PNG" width="260">
+</a><br>
+<b>GitHub Copilot Fundamentals</b>
+</td>
 
-    <td align="center">
-      <a href="[YOUR_MICROSOFT_LEARN_URL](https://learn.microsoft.com/en-in/users/adeshsinghrathore-3396/achievements/print/46xs6qak)">
-        <img src="./assets/badges/PromptEngineering.png" width="260"/>
-      </a><br/>
-      <b>Introduction to GitHub Copilot</b>
-    </td>
-
-   
-  </tr>
+<td align="center">
+<a href="https://learn.microsoft.com/en-in/users/adeshsinghrathore-3396/achievements/print/46xs6qak" target="_blank">
+<img src="./assets/Badges/PromptEngineering.PNG" width="260">
+</a><br>
+<b>Prompt Engineering</b>
+</td>
+</tr>
 </table>
 
-
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdeshRathore89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
